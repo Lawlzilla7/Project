@@ -1,5 +1,5 @@
-Project tech 
-Furkan Tura
-500905013
+# Project tech 
+## Furkan Tura
+### 500905013
 
-* Week 1
+* #### Week 1
